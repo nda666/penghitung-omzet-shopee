@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Penghitung Omzet Toko Shopee 🛍️
 // @namespace    http://tampermonkey.net/
-// @version      v1.0
+// @version      1.0
 // @description  Made with ❤️ by Doran Programmer Team 👨‍💻
 // @author       Doran Programmer Team 👨‍💻
 // @match        *://shopee.co.id/*
