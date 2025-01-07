@@ -8,7 +8,7 @@
 // @match        *://shopee.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=shopee.com
 // @grant        none
-// @updateUrl   https://raw.githubusercontent.com/nda666/penghitung-omzet-shopee/refs/heads/main/penghitung-omzet-shopee.js
+// @updateURL   https://raw.githubusercontent.com/nda666/penghitung-omzet-shopee/refs/heads/main/penghitung-omzet-shopee.js
 // ==/UserScript==
 
 (function () {
