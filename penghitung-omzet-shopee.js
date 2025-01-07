@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Penghitung Omzet Toko Shopee 🛍️
 // @namespace    http://tampermonkey.net/
-// @version      v1.0
+// @version      v1.1
 // @description  Made with ❤️ by Doran Programmer Team 👨‍💻
 // @author       Doran Programmer Team 👨‍💻
 // @match        *://shopee.co.id/*
 // @match        *://shopee.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=shopee.com
 // @grant        none
+// @downloadURL https://raw.githubusercontent.com/nda666/penghitung-omzet-shopee/refs/heads/main/penghitung-omzet-shopee.js
 // @updateURL   https://raw.githubusercontent.com/nda666/penghitung-omzet-shopee/refs/heads/main/penghitung-omzet-shopee.js
 // ==/UserScript==
 
